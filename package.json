@@ -1,0 +1,15 @@
+{
+  "name": "@tuuser/next-best-practices",
+  "version": "1.0.0",
+  "description": "Mejores prácticas para Next.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.14",
+    "typescript": "^5.8.2"
+  }
+}
